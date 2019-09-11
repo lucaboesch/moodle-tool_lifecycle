@@ -20,7 +20,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\step;
+namespace tool_lifecycle\local\step;
 
 use core_user;
 use tool_lifecycle\manager\process_manager;

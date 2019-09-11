@@ -21,7 +21,7 @@
  * @copyright  2019 Justus Dieckmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\event;
+namespace tool_lifecycle\local\event;
 
 use moodle_url;
 use \tool_lifecycle\entity\process;

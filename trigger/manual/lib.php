@@ -21,7 +21,7 @@
  * @copyright  2018 WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\trigger;
+namespace tool_lifecycle\local\trigger;
 
 defined('MOODLE_INTERNAL') || die();
 require_once(__DIR__ . '/../lib.php');

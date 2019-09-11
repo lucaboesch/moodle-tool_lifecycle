@@ -21,7 +21,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\step;
+namespace tool_lifecycle\local\step;
 
 use tool_lifecycle\manager\settings_manager;
 use tool_lifecycle\response\step_response;

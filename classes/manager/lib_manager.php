@@ -21,7 +21,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\manager;
+namespace tool_lifecycle\local\manager;
 
 use tool_lifecycle\step\libbase;
 use tool_lifecycle\trigger\base;

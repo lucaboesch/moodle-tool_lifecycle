@@ -21,7 +21,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\plugininfo;
+namespace tool_lifecycle\local\plugininfo;
 
 use core\plugininfo\base;
 use tool_lifecycle\manager\step_manager;

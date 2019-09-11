@@ -20,7 +20,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\local\backup;
+namespace tool_lifecycle\local\local\backup;
 
 use tool_lifecycle\entity\step_subplugin;
 use tool_lifecycle\entity\trigger_subplugin;

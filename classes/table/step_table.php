@@ -21,7 +21,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\table;
+namespace tool_lifecycle\local\table;
 
 use tool_lifecycle\action;
 use tool_lifecycle\entity\trigger_subplugin;

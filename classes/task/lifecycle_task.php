@@ -21,7 +21,7 @@
  * @copyright  2017 Tobias Reischmann WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\task;
+namespace tool_lifecycle\local\task;
 
 use tool_lifecycle\manager\lib_manager;
 use tool_lifecycle\manager\step_manager;

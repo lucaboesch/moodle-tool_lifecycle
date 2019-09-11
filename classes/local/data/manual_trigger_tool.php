@@ -21,7 +21,7 @@
  * @copyright  2018 WWU
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace tool_lifecycle\local\data;
+namespace tool_lifecycle\local\local\data;
 
 use renderable;
 
