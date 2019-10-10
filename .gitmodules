@@ -1,0 +1,3 @@
+[submodule "step/adminapprove"]
+	path = step/adminapprove
+	url = https://github.com/learnweb/moodle-lifecyclestep_adminapprove
